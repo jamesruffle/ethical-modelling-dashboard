@@ -3,19 +3,10 @@
 ![cover_image](assets/cover_image.png)
 
 ## Table of Contents
-- [What is this repository for?](#what-is-this-repository-for)
-	- [The problem](#the-problem)
-	- [Our solution](#our-solution)
 - [Code](#code)
 	- [Quickstart](#quickstart)
 - [Usage queries](#usage-queries)
 - [License](#license)
-
-## What is this repository for?
-
-### The problem
-
-### Our solution
 
 ## Code
 ### Quickstart
