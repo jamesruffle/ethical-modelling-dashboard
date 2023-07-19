@@ -20,18 +20,13 @@
 ## Code
 ### Quickstart
 
-You can start using our prototype, *with only [R](https://www.python.org/) and [shiny]() required*, in **just 3 simple steps**:
+You can start using our prototype, *with only [R](https://cran.r-project.org) and [Shiny](https://www.r-project.org/nosvn/pandoc/shiny.html) required*, in **just 3 simple steps**:
 
-1) **Using the terminal**
-```
-git clone https://github.com/WellcomeIdeathon2023/MindfulAI
-python -m http.server
-```
+1) Download the repository:
+- Click [here](https://github.com/jamesruffle/ethical-modelling-dashboard/archive/refs/heads/main.zip).
+- **Using the terminal** ```git clone https://github.com/jamesruffle/ethical-modelling-dashboard.git```
 
-2) In [R](), open and run the file
-```
-app.R
-```
+2) In [R](https://cran.r-project.org), open and run the file ```app.R```
 
 3) Load in the file ```synthetic_data.csv```, supplied in this repository (and downloaded as part of step 1).
 
