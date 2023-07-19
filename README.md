@@ -17,9 +17,9 @@ You can start using our prototype, *with only [R](https://cran.r-project.org) an
 	- Clicking [here](https://github.com/jamesruffle/ethical-modelling-dashboard/archive/refs/heads/main.zip).
 	- Using the terminal ```git clone https://github.com/jamesruffle/ethical-modelling-dashboard.git```
 
-2) In [R](https://cran.r-project.org), open and run the file ```app.R```.
+2) In [R](https://cran.r-project.org), open and run the code ```app.R```.
 
-3) Load in the file ```synthetic_data.csv``` using the 'Import CSV file' option in the dashboard top left corner. The csv is supplied as part of this repository (and should be downloaded as part of step 1).
+3) Load in the ```synthetic_data.csv``` using the 'Import CSV file' option in the dashboard top left corner. The csv is supplied as part of this repository (and should be downloaded as part of step 1).
 
 
 ## Usage queries
