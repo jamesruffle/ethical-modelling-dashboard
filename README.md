@@ -15,7 +15,7 @@ You can start using our prototype, *with only [R](https://cran.r-project.org) an
 
 1) Download the repository, either by
 	- Clicking [here](https://github.com/jamesruffle/ethical-modelling-dashboard/archive/refs/heads/main.zip).
-	- **Using the terminal** ```git clone https://github.com/jamesruffle/ethical-modelling-dashboard.git```
+	- Using the terminal ```git clone https://github.com/jamesruffle/ethical-modelling-dashboard.git```
 
 2) In [R](https://cran.r-project.org), open and run the file ```app.R```.
 
